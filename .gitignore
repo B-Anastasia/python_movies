@@ -137,3 +137,10 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+
+
+#git rm -rf --cached .
+#git add .
+#потом закоммитить:
+#
+#git commit -m "fix gitignore"
